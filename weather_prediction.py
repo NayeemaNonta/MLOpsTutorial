@@ -37,6 +37,7 @@ for i in range(len(train_data)-n+1):
 train_data_seq = np.array(train_data_seq)
 print(train_data_seq.shape)
 
+# TODO
 x = np.reshape(train_data_seq)
 print(x)
 #y = 
